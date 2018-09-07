@@ -1,0 +1,54 @@
+#heading {
+    height:2em;
+    font-size:100px;
+    background-color: #B2FF59;
+    font-family: 'Tangerine', cursive;
+}
+
+#b-box{
+    margin:0 auto;
+    width:100%;
+    height:1000px;
+    border:2px solid black;
+    border-top-style:double;
+}
+#box1{width:100%;box-shadow: inset 1px 1px 18px 5px black;
+    height:20%;
+    margin:0 auto;
+    background-color:cadetblue;
+    text-align:center;
+    font-size:40px;
+    font-family: 'Tangerine', cursive;
+
+    border-bottom-style:double;
+}
+#box2{text-align:center;
+    margin:0 auto;
+    font-family: Pristina;
+    background-color:  burlywood;
+    text-decoration: underline;
+    border-right:2px solid black;
+
+
+    width:100%;
+    height:10%;
+    font-size:30px;
+
+}
+#box3{
+    font-family:Book Antiqua;
+    font-size:20px;
+    width:100%;
+    height:70%;
+    text-align:center;
+    margin:0 auto;
+    background-color: burlywood;
+    border-right:2px solid black;
+
+    border-bottom:4px solid black;
+
+}
+h1{  font-size: 20px;
+    text-align: center;
+}
+
