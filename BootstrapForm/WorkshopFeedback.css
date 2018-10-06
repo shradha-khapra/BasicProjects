@@ -1,0 +1,14 @@
+#main{
+    width:60%;
+    margin:0 auto;
+}
+#inp1,#inp2,#inp3,#inp4,#inp5,#inp6{
+    border:none;
+    border-bottom: 1px solid #000000;
+    box-shadow: none;
+
+    margin:0 auto;
+}
+.req{
+    color:red;
+}
